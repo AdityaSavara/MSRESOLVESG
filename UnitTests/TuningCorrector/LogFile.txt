@@ -1,0 +1,27 @@
+Sat Jul 23 16:05:47 2022
+
+referenceFileName = ['AcetaldehydeMeasuredShortened.tsv'] 
+form  = ['xyyy'] 
+dataToAnalyzeFileName = 2-CrotAcetExp#2.csv 
+timeRangeLimit = yes 
+timeRangeStart = 176.0 
+timeRangeFinish = 178.0 
+tuningCorrection = yes 
+referenceCorrectionCoefficientA = -0.0005940630376328838 
+referenceCorrectionCoefficientB = 0.05136153011636841 
+referenceCorrectionCoefficientC = 0.035082939270643154 
+referenceCorrection_abcCoefficients = [-0.0005940630376328838, 0.05136153011636841, 0.035082939270643154] 
+referenceCorrection_abcCoefficients_cov = [[2.4739010355592863e-07, -1.9610834649741445e-05, 0.0003594953514872006], [-1.961083464974144e-05, 0.001576726891341459, -0.029260978861608906], [0.0003594953514872005, -0.029260978861608902, 0.5507218596259561]] 
+applyReferenceMassFragmentsThresholds = yes 
+referenceMassFragmentFilterThreshold = [6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0, 6.0] 
+referenceSignificantFragmentThresholds = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0] 
+answer = sls 
+uniqueOrCommon = unique 
+slsFinish = inverse 
+distinguished = yes 
+scaleRawDataFactor  = 1.0 
+resolvedScaledConcentrationsOutputName  = ScaledConcentrations.tsv 
+concentrationsOutputName = ResolvedConcentrations.tsv 
+simulatedSignalsOutputName = SimulatedRawSignals.csv 
+Run Time 0.62182 seconds 
+###################################################################### 

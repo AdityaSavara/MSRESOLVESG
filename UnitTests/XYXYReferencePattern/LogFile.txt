@@ -1,0 +1,21 @@
+Sun Jul 24 01:05:32 2022
+
+referenceFileName = ['AcetaldehydeNISTRefMixed2XYXY.csv'] 
+form  = ['xyxy'] 
+dataToAnalyzeFileName = 2-CrotAcetExp#2.csv 
+timeRangeLimit = yes 
+timeRangeStart = 176.0 
+timeRangeFinish = 900.0 
+dataSmootherYorN = yes 
+dataSmootherChoice = timerange 
+dataSmootherTimeRadius = 7 
+dataSmootherPointRadius = 5 
+dataSmootherHeadersToConfineTo = [] 
+answer = inverse 
+distinguished = yes 
+scaleRawDataFactor  = 1.0 
+resolvedScaledConcentrationsOutputName  = ScaledConcentrations.csv 
+concentrationsOutputName = ResolvedConcentrations.csv 
+simulatedSignalsOutputName = SimulatedRawSignals.csv 
+Run Time 0.54238 seconds 
+###################################################################### 

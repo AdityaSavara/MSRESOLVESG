@@ -1,0 +1,27 @@
+Sat Jul 23 16:05:58 2022
+
+referenceFileName = ['ExtractedReferencePattern.tsv'] 
+form  = ['xyyy'] 
+dataToAnalyzeFileName = Collected_Data.csv 
+timeRangeLimit = yes 
+timeRangeStart = 176.0 
+timeRangeFinish = 900.0 
+tuningCorrection = yes 
+referenceCorrectionCoefficientA = -0.001271544176788167 
+referenceCorrectionCoefficientB = 0.0066930322317745854 
+referenceCorrectionCoefficientC = 1.778948707281361 
+referenceCorrection_abcCoefficients = [-0.001271544176788167, 0.0066930322317745854, 1.778948707281361] 
+referenceCorrection_abcCoefficients_cov = [[8.296099773265594e-06, -0.0003570174262491746, 0.0035299836645721642], [-0.00035701742624917474, 0.015483767296137516, -0.1548111688913956], [0.003529983664572168, -0.15481116889139568, 1.5758759513846061]] 
+applyReferenceMassFragmentsThresholds = yes 
+referenceMassFragmentFilterThreshold = [2.0, 2.0, 2.0, 2.0] 
+referenceSignificantFragmentThresholds = [6.0, 6.0, 6.0, 6.0] 
+answer = sls 
+uniqueOrCommon = unique 
+slsFinish = inverse 
+distinguished = yes 
+scaleRawDataFactor  = 1.0 
+resolvedScaledConcentrationsOutputName  = ScaledConcentrations.tsv 
+concentrationsOutputName = ResolvedConcentrations.tsv 
+simulatedSignalsOutputName = SimulatedRawSignals.tsv 
+Run Time 0.40295 seconds 
+###################################################################### 
